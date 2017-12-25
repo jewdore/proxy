@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"os"
-	"proxy/proxy"
+	"github.com/prosejazz/proxy/proxy"
 )
 
 func main() {
