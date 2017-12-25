@@ -1,0 +1,20 @@
+{
+    "pipe":[
+        {
+            "ip":"0.0.0.0",
+            "port":8099,
+            "protocol":"tcp",
+            "pid":0,
+            "id":1
+        }
+    ],
+    "server":[
+        {
+            "ip":"0.0.0.0",
+            "port":8001,
+            "protocol":"tcp",
+            "pid":1,
+            "id":1
+        }
+    ]
+}
